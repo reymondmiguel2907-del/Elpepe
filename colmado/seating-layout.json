@@ -1,0 +1,575 @@
+{
+  "version": 2,
+  "coordinate_system": "threejs_y_up",
+  "character_forward_convention": "negative_z",
+  "table_count": 6,
+  "chair_count": 24,
+  "characters_included": false,
+  "domino_tiles_included": false,
+  "tables": [
+    {
+      "id": "mesa-01",
+      "position": [
+        -4.0,
+        0.08,
+        -2.5
+      ],
+      "seats": [
+        {
+          "id": "mesa-01-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            -4.0,
+            0.5824999999999999,
+            -1.55
+          ],
+          "floor_position": [
+            -4.0,
+            0.08,
+            -1.55
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-01-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            -4.0,
+            0.5824999999999999,
+            -3.45
+          ],
+          "floor_position": [
+            -4.0,
+            0.08,
+            -3.45
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-01-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            -4.95,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            -4.95,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-01-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            -3.05,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            -3.05,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    },
+    {
+      "id": "mesa-02",
+      "position": [
+        0.0,
+        0.08,
+        -2.5
+      ],
+      "seats": [
+        {
+          "id": "mesa-02-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            0.0,
+            0.5824999999999999,
+            -1.55
+          ],
+          "floor_position": [
+            0.0,
+            0.08,
+            -1.55
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-02-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            0.0,
+            0.5824999999999999,
+            -3.45
+          ],
+          "floor_position": [
+            0.0,
+            0.08,
+            -3.45
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-02-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            -0.95,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            -0.95,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-02-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            0.95,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            0.95,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    },
+    {
+      "id": "mesa-03",
+      "position": [
+        4.0,
+        0.08,
+        -2.5
+      ],
+      "seats": [
+        {
+          "id": "mesa-03-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            4.0,
+            0.5824999999999999,
+            -1.55
+          ],
+          "floor_position": [
+            4.0,
+            0.08,
+            -1.55
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-03-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            4.0,
+            0.5824999999999999,
+            -3.45
+          ],
+          "floor_position": [
+            4.0,
+            0.08,
+            -3.45
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-03-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            3.05,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            3.05,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-03-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            4.95,
+            0.5824999999999999,
+            -2.5
+          ],
+          "floor_position": [
+            4.95,
+            0.08,
+            -2.5
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    },
+    {
+      "id": "mesa-04",
+      "position": [
+        -4.0,
+        0.08,
+        -6.1
+      ],
+      "seats": [
+        {
+          "id": "mesa-04-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            -4.0,
+            0.5824999999999999,
+            -5.1499999999999995
+          ],
+          "floor_position": [
+            -4.0,
+            0.08,
+            -5.1499999999999995
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-04-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            -4.0,
+            0.5824999999999999,
+            -7.05
+          ],
+          "floor_position": [
+            -4.0,
+            0.08,
+            -7.05
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-04-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            -4.95,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            -4.95,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-04-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            -3.05,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            -3.05,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    },
+    {
+      "id": "mesa-05",
+      "position": [
+        0.0,
+        0.08,
+        -6.1
+      ],
+      "seats": [
+        {
+          "id": "mesa-05-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            0.0,
+            0.5824999999999999,
+            -5.1499999999999995
+          ],
+          "floor_position": [
+            0.0,
+            0.08,
+            -5.1499999999999995
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-05-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            0.0,
+            0.5824999999999999,
+            -7.05
+          ],
+          "floor_position": [
+            0.0,
+            0.08,
+            -7.05
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-05-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            -0.95,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            -0.95,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-05-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            0.95,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            0.95,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    },
+    {
+      "id": "mesa-06",
+      "position": [
+        4.0,
+        0.08,
+        -6.1
+      ],
+      "seats": [
+        {
+          "id": "mesa-06-asiento-sur",
+          "side": "sur",
+          "seat_surface_position": [
+            4.0,
+            0.5824999999999999,
+            -5.1499999999999995
+          ],
+          "floor_position": [
+            4.0,
+            0.08,
+            -5.1499999999999995
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            -1.0
+          ],
+          "yaw_y_radians": -0.0,
+          "occupied": false
+        },
+        {
+          "id": "mesa-06-asiento-norte",
+          "side": "norte",
+          "seat_surface_position": [
+            4.0,
+            0.5824999999999999,
+            -7.05
+          ],
+          "floor_position": [
+            4.0,
+            0.08,
+            -7.05
+          ],
+          "facing_direction": [
+            0.0,
+            0.0,
+            1.0
+          ],
+          "yaw_y_radians": -3.141592653589793,
+          "occupied": false
+        },
+        {
+          "id": "mesa-06-asiento-oeste",
+          "side": "oeste",
+          "seat_surface_position": [
+            3.05,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            3.05,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": -1.5707963267948966,
+          "occupied": false
+        },
+        {
+          "id": "mesa-06-asiento-este",
+          "side": "este",
+          "seat_surface_position": [
+            4.95,
+            0.5824999999999999,
+            -6.1
+          ],
+          "floor_position": [
+            4.95,
+            0.08,
+            -6.1
+          ],
+          "facing_direction": [
+            -1.0,
+            0.0,
+            -0.0
+          ],
+          "yaw_y_radians": 1.5707963267948966,
+          "occupied": false
+        }
+      ]
+    }
+  ]
+}

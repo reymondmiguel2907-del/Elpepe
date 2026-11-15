@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#10201b">
+  <title>El Bloke · Colmado y barrio 3D</title>
+  <link rel="stylesheet" href="style.css">
+  <script type="importmap">{"imports":{"three":"./vendor/three.module.js","three/addons/":"./vendor/addons/"}}</script>
+</head>
+<body>
+  <main id="view" aria-label="Recorrido 3D del colmado El Bloke">
+    <div id="loading" role="status"><span class="spinner"></span><strong>Entrando al colmado…</strong><small id="load-detail">Preparando la calle y el barrio</small></div>
+    <header class="panel">
+      <div><strong>EL BLOKE</strong><span>Colmado y barrio</span></div>
+      <button id="reset" type="button" title="Volver a la entrada">Volver al inicio</button>
+    </header>
+    <div id="guide" class="panel">Camina con <b>W A S D</b> o las flechas · Arrastra para mirar</div>
+    <div id="touch-guide" class="panel">Usa las flechas para caminar · Desliza para mirar</div>
+    <div id="crosshair" aria-hidden="true">+</div>
+    <nav id="pad" aria-label="Moverse por el colmado">
+      <button data-move="forward" aria-label="Avanzar">↑</button>
+      <button data-move="left" aria-label="Ir a la izquierda">←</button>
+      <button data-move="backward" aria-label="Retroceder">↓</button>
+      <button data-move="right" aria-label="Ir a la derecha">→</button>
+    </nav>
+    <div id="error" role="alert" hidden></div>
+  </main>
+  <script type="module" src="app.mjs"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "source_clip": "Scene",
+  "fps": 30,
+  "duration_seconds": 8,
+  "actions": {
+    "sentarse": {"start_frame": 1, "end_frame": 60},
+    "agarrar": {"start_frame": 61, "end_frame": 146},
+    "colocar": {"start_frame": 147, "end_frame": 240}
+  },
+  "events": {
+    "agarre_cerrado": 130,
+    "ficha_apoyada": 193,
+    "mano_abre": 194,
+    "retirada": 214,
+    "reposo": 240
+  },
+  "note": "Una ficha de prueba y posiciones predeterminadas. La integración con fichas y jugadas dinámicas se realiza en el motor del juego."
+}

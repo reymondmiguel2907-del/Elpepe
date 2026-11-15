@@ -1,0 +1,10 @@
+{
+  "name": "el-bloke-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Colmado dominicano, mesa EL BLOKE y demostración de personaje animado",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node scripts/verify-assets.mjs && node colmado/viewer/test-collision.mjs"
+  }
+}

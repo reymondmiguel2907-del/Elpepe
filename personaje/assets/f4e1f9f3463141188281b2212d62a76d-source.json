@@ -1,0 +1,181 @@
+{
+  "animationCount": 18,
+  "categories": [
+    {
+      "uid": "2d643ff5ed03405b9c34ecdffff9d8d8",
+      "name": "Characters & Creatures",
+      "slug": "characters-creatures",
+      "uri": "https://api.sketchfab.com/v3/categories/2d643ff5ed03405b9c34ecdffff9d8d8",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/f778c3dbe6efa00a06c257762c0e27ef-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/2d643ff5ed03405b9c34ecdffff9d8d8/800x450.png"
+        }
+      ]
+    },
+    {
+      "uid": "93e6d27da62149c6b963039835f45997",
+      "name": "People",
+      "slug": "people",
+      "uri": "https://api.sketchfab.com/v3/categories/93e6d27da62149c6b963039835f45997",
+      "icon": "https://static.sketchfab.com/static/builds/web/dist/static/assets/images/icons/categories/63980e30d4668c8fba3671a767c90954-v2.svg",
+      "thumbnails": [
+        {
+          "width": "512",
+          "height": "288",
+          "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/512x288.png"
+        },
+        {
+          "width": "800",
+          "height": "450",
+          "url": "https://static.sketchfab.com/categories/93e6d27da62149c6b963039835f45997/800x450.png"
+        }
+      ]
+    }
+  ],
+  "commentCount": 10,
+  "createdAt": "2021-06-10T04:51:58.826314",
+  "embedUrl": "https://sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/embed",
+  "faceCount": 4460,
+  "isAgeRestricted": false,
+  "license": {
+    "uri": "https://api.sketchfab.com/v3/licenses/322a749bcfa841b29dff1e8a1bb74b0b",
+    "label": "CC Attribution",
+    "fullName": "Creative Commons Attribution",
+    "requirements": "Author must be credited. Commercial use is allowed.",
+    "url": "http://creativecommons.org/licenses/by/4.0/",
+    "slug": "by"
+  },
+  "likeCount": 143,
+  "name": "casual male-architectural Updated",
+  "publishedAt": "2021-06-10T06:09:08.739294",
+  "soundCount": 0,
+  "staffpickedAt": null,
+  "tags": [
+    {
+      "name": "character",
+      "slug": "character",
+      "uri": "https://api.sketchfab.com/v3/tags/character"
+    },
+    {
+      "name": "low-poly",
+      "slug": "low-poly",
+      "uri": "https://api.sketchfab.com/v3/tags/low-poly"
+    },
+    {
+      "name": "mobile",
+      "slug": "mobile",
+      "uri": "https://api.sketchfab.com/v3/tags/mobile"
+    },
+    {
+      "name": "animated",
+      "slug": "animated",
+      "uri": "https://api.sketchfab.com/v3/tags/animated"
+    }
+  ],
+  "thumbnails": {
+    "images": [
+      {
+        "uid": "81c7ed986bcd4f13986538977c7d8c4e",
+        "width": 1920,
+        "height": 1080,
+        "size": 58575,
+        "url": "https://media.sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/thumbnails/98b5b0726fb74bd4a204359b9a88d657/75f4651945664b01a0374dc0b46686d4.jpeg"
+      },
+      {
+        "uid": "87adafffb64e468398050e4391f43382",
+        "width": 1024,
+        "height": 576,
+        "size": 18748,
+        "url": "https://media.sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/thumbnails/98b5b0726fb74bd4a204359b9a88d657/ceb825650a1e4a8eb68d4a7b5bce14a8.jpeg"
+      },
+      {
+        "uid": "a128fa37411148d8ac3b958aa393bf5e",
+        "width": 720,
+        "height": 405,
+        "size": 11079,
+        "url": "https://media.sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/thumbnails/98b5b0726fb74bd4a204359b9a88d657/be618edf5c9747dba6da056db24242f8.jpeg"
+      },
+      {
+        "uid": "c1696fe9eb6e478ba2713ad390b3c51d",
+        "width": 256,
+        "height": 144,
+        "size": 2590,
+        "url": "https://media.sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/thumbnails/98b5b0726fb74bd4a204359b9a88d657/d948a5e121ef4473ae64a9c58384d1e5.jpeg"
+      },
+      {
+        "uid": "58c44d516ee34da4b8ee4c69ab27ccd8",
+        "width": 64,
+        "height": 36,
+        "size": 657,
+        "url": "https://media.sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/thumbnails/98b5b0726fb74bd4a204359b9a88d657/95773280294f43878d0e56e19c4cb4c1.jpeg"
+      }
+    ]
+  },
+  "uid": "f4e1f9f3463141188281b2212d62a76d",
+  "uri": "https://api.sketchfab.com/v3/models/f4e1f9f3463141188281b2212d62a76d",
+  "user": {
+    "uid": "fa513a7016a04276b68d95e2bb492d88",
+    "username": "manoeldarochadeoliveira",
+    "displayName": "manoeldarochadeoliveira",
+    "account": "basic",
+    "profileUrl": "https://sketchfab.com/manoeldarochadeoliveira",
+    "avatar": {
+      "uid": "06659fa81e95421ca516fe60130e6f6d",
+      "uri": "https://api.sketchfab.com/v3/avatars/06659fa81e95421ca516fe60130e6f6d",
+      "images": [
+        {
+          "width": 32,
+          "height": 32,
+          "size": 1894,
+          "url": "https://media.sketchfab.com/avatars/06659fa81e95421ca516fe60130e6f6d/e64035a0f3ee4310a60f20f81a539e1e.png"
+        },
+        {
+          "width": 48,
+          "height": 48,
+          "size": 3922,
+          "url": "https://media.sketchfab.com/avatars/06659fa81e95421ca516fe60130e6f6d/ee38ea8ca27c405db9a6cb642a44dadb.png"
+        },
+        {
+          "width": 90,
+          "height": 90,
+          "size": 8469,
+          "url": "https://media.sketchfab.com/avatars/06659fa81e95421ca516fe60130e6f6d/a291bf0938414102bc9708e13c8e0c8e.png"
+        },
+        {
+          "width": 100,
+          "height": 100,
+          "size": 9747,
+          "url": "https://media.sketchfab.com/avatars/06659fa81e95421ca516fe60130e6f6d/c134580bd4f84ecab3a2bc90b22e99e5.png"
+        }
+      ]
+    },
+    "uri": "https://api.sketchfab.com/v3/users/fa513a7016a04276b68d95e2bb492d88"
+  },
+  "vertexCount": 2287,
+  "viewCount": 8899,
+  "viewerUrl": "https://sketchfab.com/3d-models/casual-male-architectural-updated-f4e1f9f3463141188281b2212d62a76d",
+  "isDownloadable": true,
+  "isProtected": false,
+  "description": "An ideal character for architectural visualizations or mobile games, very low polygon geometry. The Model has animations \u2026 The 3D rigging is compatible with Unity Engine\u2019s Mecanim but can work with other game engines. (tested on Unreal, Godot, Unity)\n\n**NEW**\n\n* Fixed axes\n* Remade animations\n\n**TODO**\n\n* limit weights to a maximum of 4 bones.\n* Test compatibility with Three.js and Babylon.js\n\n\n\nThis is free for you. If you downloaded this file and liked it, please consider pressing the star button.\n\nFollow me! More free stuff to come soon.",
+  "price": null,
+  "downloadCount": 2549,
+  "editorUrl": "https://sketchfab.com/models/f4e1f9f3463141188281b2212d62a76d/edit",
+  "status": {
+    "warning": {},
+    "processing": "SUCCEEDED"
+  },
+  "source": "website",
+  "hasCommentsDisabled": false,
+  "updatedAt": "2022-07-21T10:36:32.608180",
+  "pbrType": "metalness",
+  "textureCount": 6,
+  "materialCount": 1
+}

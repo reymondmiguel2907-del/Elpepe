@@ -1,0 +1,13 @@
+{
+  "source": "personaje-domino-animado.blend",
+  "source_sha256": "e056a6873a77853e9b98c777c142ad835cb310219055c729414a3b9b41172246",
+  "settings": {
+    "width": 480,
+    "height": 360,
+    "samples": 4
+  },
+  "frame_count": 120,
+  "render_seconds": 137.91750117299853,
+  "video": "personaje-domino-animacion.mp4",
+  "gif": "personaje-domino-animacion.gif"
+}
